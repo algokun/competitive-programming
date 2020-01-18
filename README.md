@@ -35,7 +35,6 @@ I have some of the learning resources from [Codechef](codechef.com)
         - cs.cmu.edu - Arrays
         - geeksforgeeks.org - Arrays Data Structure
     - Practice Problems
-        - codechef.com - LECANDY, editorial
         - codechef.com - CNOTE, editorial ;
         - codechef.com - SALARY, editorial
         - codechef.com - CHN15A, editorial
